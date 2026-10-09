@@ -1,0 +1,18 @@
+{
+  "name": "atelier-perdele-windows",
+  "version": "1.0.1",
+  "description": "Atelier Perdele Windows desktop application",
+  "author": "Atelier Perdele",
+  "private": true,
+  "main": "main.cjs",
+  "scripts": {"start": "electron .", "build": "electron-builder --win nsis --x64 --publish never"},
+  "devDependencies": {"electron": "latest", "electron-builder": "latest"},
+  "build": {
+    "appId": "ro.atelierperdele.windows",
+    "productName": "Atelier Perdele",
+    "directories": {"output": "release"},
+    "files": ["main.cjs", "preload.cjs", "web/**/*", "package.json"],
+    "win": {"target": "nsis", "signAndEditExecutable": false, "artifactName": "Atelier-Perdele-Windows-Kurulum.${ext}"},
+    "nsis": {"oneClick": false, "perMachine": false, "allowToChangeInstallationDirectory": true, "createDesktopShortcut": true, "deleteAppDataOnUninstall": false}
+  }
+}

@@ -1,0 +1,12 @@
+const fs = require('node:fs');
+const path = require('node:path');
+const webRoot = path.resolve(__dirname, '../perde-windows/web');
+let html = fs.readFileSync(path.join(webRoot, 'index.html'), 'utf8');
+const match = html.match(/<script src="([^"]+)" defer><\/script>/);
+if (!match) throw new Error('Web bundle reference not found. Export web first.');
+const script = fs.readFileSync(path.join(webRoot, match[1]), 'utf8');
+html = html.replace(match[0], () => '<script>' + script.replace(/<\/script/gi, '<\\/script') + '</script>');
+html = html.replace('<html lang="en">', '<html lang="ro">');
+const target = path.resolve(__dirname, '../Atelier-Perdele-Tarayici.html');
+fs.writeFileSync(target, html, 'utf8');
+console.log('Standalone browser application: ' + target);

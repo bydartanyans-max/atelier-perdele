@@ -1,0 +1,23 @@
+ATELIER PERDELE - WINDOWS KURULUMU
+
+1. Atelier-Perdele-Windows-Kurulum.exe dosyasina cift tiklayin.
+2. Kurulum klasorunu secip kurulumu tamamlayin.
+3. Masaustundeki Atelier Perdele kisayolundan uygulamayi acin.
+4. Ilk acilista magaza bilgilerini ve logonuzu girin.
+
+Windows 10/11, 64 bit bilgisayarlar icindir. Node.js, Expo hesabi,
+telefon veya internet baglantisi gerekmez.
+
+PDF dugmesi siparis formunu bilgisayara PDF dosyasi olarak kaydeder.
+Tipareste formularul dugmesi yazdirma penceresini acar.
+Kayitlar Windows kullanicinizin AppData/Roaming/Atelier Perdele
+klasorundeki orders.json dosyasinda tutulur. Guncelleme veya uygulama
+kapatma bu kayitlari silmez. Duzenli olarak JSON yedegi alin.
+
+Telefondaki kayitlar otomatik gelmez. Telefonda Magazin si backup
+bolumunden Exporta backup ile JSON dosyasi alin. Windows uygulamasinda
+Restaureaza din backup ile bu dosyayi secin. Geri yukleme mevcut
+kayitlarin yerine gecer; once mevcut verilerin yedegini alin.
+
+Kurulum dosyasi bir ticari kod imzalama sertifikasiyla imzalanmadi.
+Windows SmartScreen bir uyari gosterebilir. Dosya bu projede hazirlandi.

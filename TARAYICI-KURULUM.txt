@@ -1,0 +1,33 @@
+ATELIER PERDELE - TARAYICI SURUMU 1.0.1
+
+1. Atelier-Perdele-Tarayici.html dosyasina cift tiklayin.
+2. Dosya Edge veya Chrome'da acilsin. Gerekirse sag tiklayin,
+   Birlikte ac > Microsoft Edge secin.
+3. Ilk acilista magaza bilgilerini girin.
+
+EXE kurulumu, Expo hesabi, sunucu veya internet gerekmez.
+HTML dosyasini baska Windows bilgisayara kopyalayabilirsiniz.
+
+PDF dugmesi yazdirma penceresini acar. PDF olarak kaydet secenegini
+secip dosyayi kaydedin. Normal yaziciyi da secebilirsiniz.
+Pencere acilmazsa bu dosya icin tarayicinin acilir pencere iznini
+kontrol edin.
+
+Siparis listesinde her kartin altindaki Sterge comanda butonu
+onaydan sonra siparisi, odemelerini ve eski revizyonlarini siler.
+
+KAYITLAR VE YEDEK
+Kayitlar HTML dosyasinin icine yazilmaz; tarayicinin yerel
+depolamasinda tutulur. Ayni Windows kullanicisi, ayni tarayici
+profili ve ayni dosya konumuyla kullanin. Gizli/InPrivate pencerede
+kalici kayit beklemeyin. Dosyayi tasimadan veya tarayici verilerini
+temizlemeden once Magazin si backup > Exporta backup ile JSON
+yedegi alin. Buyuk logolar ve cok sayida siparis tarayicinin
+depolama kotasina ulasabilir; kucuk logo kullanin ve yedek alin.
+
+Telefondaki veya masaustu EXE uygulamasindaki kayitlar otomatik
+gelmez. JSON yedegini bu surumde Restaureaza din backup ile
+yukleyebilirsiniz. Geri yukleme mevcut kayitlarin yerine gecer.
+
+Edge'de internet kapaliyken siparis, PDF, revizyon, yedek aktarimi
+ve silme kontrolleri yapildi. Chrome ayri test edilmedi.

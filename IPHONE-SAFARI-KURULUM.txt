@@ -1,0 +1,31 @@
+ATELIER PERDELE - IPHONE SAFARI
+
+Adres: https://atelier-perdele-iphone.tealbirch2.chatgpt.site
+
+1. Bu adresi iPhone'da Safari ile acin.
+2. Baglanti herkese aciktir; ChatGPT hesabi veya giris gerekmez.
+3. Safari'de Paylas > Ana Ekrana Ekle > Ekle secin.
+4. Ana ekrandaki Atelier Perdele simgesini acin. Ilk acilisi internet
+   bagliyken yapin. Kayitlari bu simgeden kullanmaya baslayin.
+5. Magaza bilgilerini girin veya Android/Windows JSON yedegini
+   Magazin si backup > Restaureaza din backup ile yukleyin.
+
+Safari sekmesiyle ana ekran uygulamasinin yerel verileri farkli
+olabilir. Ayni simgeyi kullanin ve duzenli JSON yedegi alin.
+Kayitlar otomatik olarak diger cihazlara veya sunucuya aktarilmaz.
+
+PDF dugmesi siparis formunu yazdirma penceresinde acar. iPhone'da
+onizlemeyi buyutup Paylas uzerinden Dosyalara Kaydet secenegini
+kullanabilirsiniz. Form acilmazsa acilir pencere iznini kontrol edin.
+
+Ilk basarili acilistan sonra uygulama onbellegi ile internetsiz
+acilis desteklenir; tarayici onbellegi temizlerse yeniden internet
+baglantisi gerekir. Gizli gezinti kullanmayin. Tarayici verilerini
+silmek veya ana ekran uygulamasini kaldirmak yerel kayitlari
+kaybettirebilir; once JSON yedegi alin.
+
+Bu yayin linki olan herkese aciktir. Siparisler her kullanicinin
+kendi cihazinda tutulur; baska kullanicinin kayitlari gorunmez.
+
+Gercek iPhone'da ilk kullanimda PDF, logo secimi, yedek aktarimi ve
+uygulamayi kapatip yeniden acinca kayitlar ayrica denenmelidir.

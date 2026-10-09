@@ -1,0 +1,23 @@
+Atelier Perdele - Android test uygulamasi
+
+1. Atelier-Perdele-test.apk dosyasini Android telefonuna kopyala.
+2. Telefonun Dosyalar uygulamasindan APK dosyasini ac.
+3. Telefon isterse, dosyayi actigin uygulama icin "Bilinmeyen uygulamalari yukle" iznini ver.
+4. Yukle'ye dokun ve Atelier Perdele uygulamasini ac.
+5. Ilk acilista magaza bilgilerini ve logonu girip kaydet.
+
+Expo hesabi, Expo Go ve bilgisayarda acik bir sunucu gerekmez.
+Android 7 veya daha yeni, ARM64/ARM32 islemcili telefonlar icindir.
+
+Bu paket telefon testi icindir. Magaza dagitimi henuz yapilmamistir.
+Veriler telefonda tutulur. Uygulamayi kaldirmadan once "Magazin si backup" ekranindan backup al.
+Tarayicida girdigin siparisler telefona otomatik aktarilmaz. Tarayicidan backup disa aktarip telefonda geri yukleyebilirsin.
+
+Oncelikle dene:
+- Magaza bilgileri ve logo kaydi.
+- Musteri, cam eni ve yuksekligi.
+- Perde/fon, plise/jaluzi ve aksesuar ekleme.
+- Avans, montaj, indirim ve kalan odeme.
+- PDF onizleme, paylasma ve yazdirma.
+- Uygulamayi kapatip tekrar acinca siparisin korunmasi.
+- Backup disa aktarma ve geri yukleme.

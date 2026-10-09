@@ -1,0 +1,21 @@
+ATELIER PERDELE 1.0.1
+
+Yenilik: Siparis listesindeki her kartin altinda kirmizi
+"Sterge comanda" (Siparisi sil) butonu bulunur.
+
+Buton once siparis numarasi ve musteri adiyla onay sorar.
+Iptal ederseniz kayit korunur. Onay verirseniz siparisin
+odemeleri ve eski revizyonlari da silinir. Diger siparisler
+korunur; silinen siparis numarasi yeniden kullanilmaz.
+
+ANDROID GUNCELLEME
+Once uygulamada JSON yedegi alin. Yeni Atelier-Perdele-test.apk
+dosyasini telefona kopyalayip mevcut uygulamanin uzerine kurun.
+Eski uygulamayi kaldirmayin; kaldirmak telefondaki verileri siler.
+Android surum kodu 2, uygulama surumu 1.0.1.
+
+WINDOWS GUNCELLEME
+Once uygulamada JSON yedegi alin ve uygulamayi kapatin.
+Yeni Atelier-Perdele-Windows-Kurulum.exe dosyasini calistirin.
+Onceki kurulum klasorunu kullanin. Kullanici verileri ayni
+AppData klasorunde kalir.

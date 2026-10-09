@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Atelier Perdele",
+    "slug": "atelier-perdele",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {"supportsTablet": true, "bundleIdentifier": "ro.atelierperdele.mobile"},
+    "android": {"package": "ro.atelierperdele.mobile", "versionCode": 2},
+    "plugins": [["expo-image-picker", {"photosPermission": "Alegeți sigla magazinului pentru fișele de comandă.", "cameraPermission": false, "microphonePermission": false}]]
+  }
+}
